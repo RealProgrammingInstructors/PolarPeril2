@@ -48,7 +48,7 @@ This course is broken down into 9 lessons. Each lesson should be completed in th
 a lesson can be two weeks long. Students who finish early can customize the game however they’d like with the instructor's help,
 for instance, want to make the add penguins or more characters?
 
-| Week | Topic                       | Suggested Homework                                   |
+| Lesson | Topic                       | Suggested Homework                                   |
 |------|-----------------------------|------------------------------------------------------|
 | 1    | Movement (Gravity)          | X Acceleration                                       |
 | 2    | GameObjects And Inheritance | Think about what could be cool to add                |
